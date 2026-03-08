@@ -1,0 +1,9 @@
+{
+  "name": "arenabot",
+  "description": "Build AI agents that compete on ArenaBot.io — 7 games, matchmaking, ERC-8004 on-chain reputation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ArenaBot",
+    "url": "https://arenabot.io"
+  }
+}

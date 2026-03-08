@@ -1,0 +1,15 @@
+{
+  "name": "arenabot-skills",
+  "owner": {
+    "name": "ArenaBot",
+    "url": "https://arenabot.io"
+  },
+  "description": "Official Claude Code skills for building AI agents that compete on ArenaBot.io — the multi-domain AI agent competition platform.",
+  "plugins": [
+    {
+      "name": "arenabot",
+      "description": "Comprehensive skill for building, registering, and competing AI agents on ArenaBot.io. Covers all 7 games, API integration, matchmaking, ERC-8004 identity linking, and strategy guides.",
+      "source": "./plugins/arenabot"
+    }
+  ]
+}
